@@ -16,7 +16,6 @@
 * [gulp]() - task runner
 * [hexo-cli]() - CLI utility to generate and publish posts when using Hexo as static site generator
 * [ionic]() - create hybrid mobile apps using Angular and TypeScript
-* [nodemon]() - continuous run a  Nodejs server during development
 * [npm]() - JS Package manager
 * [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm
 * [ts-node]() - TypeScript execution environment and REPL for node
@@ -25,8 +24,8 @@
 * [yo]() - CLI tool for running Yeoman generators
 * [yosay]() - Tell Yeoman what to say
 
-<!--
-## Local -->
+## Local
+* [nodemon]() - continuous run a  Nodejs server during development
 
 ## Web
 * [NodeICO](https://nodei.co/) - npm package badges
@@ -34,7 +33,6 @@
 * [npm-stat](https://npm-stat.com/) - statistics for any npm package
 * [npm addict](https://npmaddict.com/) - daily updates new/most used npm packages
 * [npm discover](http://www.npmdiscover.com/) - discover which npm packages are used together
-* []() -
 
 ## Browser extensions
 
