@@ -8,6 +8,8 @@
 * [angular-cli-ghpages]() - Wrapper around gh-pages, made for angular-cli users
 * [bower]() - front end package manager for MEAN Stack (v1) apps
 * [codestats-cli]() - A command utility for Code::Stats
+* [commitizen]() - use git cz instead of git commit when committing
+* [cz-conventional-changelog-emoji]() - used with commitizen
 * [cordova]() - essential for hybrid mobile app framework, ionic
 * [express-generator]() - to scaffold a running Expressjs application, avoids boilerplate of basic Nodejs server app using Express as framework
 * [grunt-cli]() - task runner
